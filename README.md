@@ -6,6 +6,6 @@ Hi, I'm Ngain! I graduated with a B. Sc... and have never stopped learning, earn
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data visualization, data cleaning and statistical analysis, which I believe will be valuable assets in my role as a data analyst.
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My Resume in [pdf](https://github.com/NgainShullai/Portfolio/blob/main/Ngain%20resume%20latest.pdf).
+My Resume in [pdf](https://github.com/NgainShullai/Portfolio/blob/main/NgainResume.pdf)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
